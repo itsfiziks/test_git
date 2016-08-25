@@ -6,7 +6,7 @@
 int main(void){
     LATDbits.LATD0 = 1;
 
-I CAN’T EVEN.
+I better get extra credit from this.
 
    
     return 0;
