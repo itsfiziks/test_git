@@ -4,14 +4,15 @@
 
 
 int main(void){
-    LATDbits.LATD0 = 1;
+    
+    // Sets pin connected to LED to an output
+    TRISDbits.TRISD0 = 0;
+    // Set output to 1
+    LATDbits.LATD0 = 0;
 
-
-I better get extra credit from this.
-
-
-   
-    //Peter better not mess this up
+    while(1){
+        
+    }
     
     return 0;
 }
