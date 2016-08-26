@@ -1,5 +1,4 @@
-/nbproject/private/
-/build/default/
-/dist/default/
-/nbproject
-Makefile
+*/nbproject/
+*/build/
+*/dist/
+*/Makefile
